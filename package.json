@@ -1,0 +1,25 @@
+{
+  "name": "github-codereview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "]",
+    "commitlint": "commitlint --edit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Bruno/github-codereview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Bruno/github-codereview/issues"
+  },
+  "homepage": "https://github.com/Alex-Bruno/github-codereview#readme",
+  "description": "",
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.3"
+  }
+}
